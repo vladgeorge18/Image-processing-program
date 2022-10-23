@@ -1,0 +1,9 @@
+Image processing program 
+
+Program implemented with Quadtree data structure used on images represented as PPM files to:
+1. Compress the image (-c factor, factor=level of compression)
+2. Decompress the image(-d)
+3. Flip horizontally (-m h) or vertically (-m v) the image
+
+Run the program using the command:
+./quadtree [-c factor | -d | -m type][input_file][output_file]
