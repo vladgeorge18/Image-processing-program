@@ -1,4 +1,4 @@
-Image processing program 
+#Image processing program 
 
 Program implemented with Quadtree data structure used on images represented as PPM files to:
 1. Compress the image (-c factor, factor=level of compression)
